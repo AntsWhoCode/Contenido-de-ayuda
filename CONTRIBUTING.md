@@ -9,3 +9,18 @@
 - No se aceptan archivos en servidores de alojamiento (Google Drive, Mega, Dropbox, etc.)
 
 - Si no tiene conocimientos sobre git y quiere contribuir puede hacer un issue
+
+### Reglas de formato
+
+Todas las listas estarán organizadas por categorías y subcategorías. Si va a hacer un pull request verifique que su contribución este organizada.
+
+Las categorías están divididas en [cursos](cursos.md), [herramientas](herramientas.md), [libros](libros.md) y [tutoriales](tutoriales.md).
+
+- Los nombres deben ser claros.
+- Si es posible ponga el nombre del autor 
+
+Ejemplo:
+
+```md
+[Nombre](wwww.libro.com/libro1.pdf) - Autor
+```
