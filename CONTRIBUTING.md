@@ -1,6 +1,6 @@
 ### Antes de contribuir
 
-- Ninguna copia pirata o ilegal de cursos o libros serán admitidos, asegúrese de que su contribución sea una gratis.
+- Ninguna copia pirata o ilegal de cursos o libros serán admitidos, asegúrese de que su contenido sea gratis.
 
 - El contenido en español es preferible. También puede contribuir con recursos que estén en otro idioma.
 
