@@ -13,18 +13,18 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 ## Tabla de contenido 
 
 * [Libros](#libros)
-    - [Python](#python)
-    - [Rust](#rust)
+    - [Python](#pythonl)
+    - [Rust](#rustl)
 
 * [Tutoriales](#tutoriales)
-    - [Rust](#rust)
-    - [Golang](#go)
-    - [Git](#git)
-    - [Canales de youtube o webs](#canales-de-youtube-o-webs)
+    - [Rust](#rustt)
+    - [Golang](#got)
+    - [Git](#gitt)
+    - [Canales de youtube o webs](#canales-de-youtube-o-webst)
 
 * [Cursos](#cursos)
-    - [Canales de youtube o webs](#canales-de-youtube-o-webs)
-    - [Vim](#vim)
+    - [Vim](#vimc)
+    - [Canales de youtube o webs](#canales-de-youtube-o-websc)
 
 * [Herramientas](#herramientas)
     - [Terminales](#terminales)
@@ -41,9 +41,13 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [Open Libra](https://openlibra.com/es/) ~ Web para encontrar libros gratis
 * [Ebook Foundation](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md) 
 
-#### Python
+<div id="pythonl"></div>
+
+#### Python 
 
 * [Python para todos](https://www.utic.edu.py/citil/images/Manuales/Python_para_todos.pdf)
+
+<div id="rustl"></div>
 
 #### Rust
 
@@ -51,18 +55,26 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 ## Tutoriales
 
+<div id="rustt"></div>
+
 #### Rust
 
 * [Tour of rust](https://tourofrust.com/) ~ (Ingles)
+
+<div id="got"></div>
 
 #### Golang
 
 * [Tour of golang](https://tour.golang.org/welcome/1) ~ (Ingles)
 
+<div id="gitt"></div>
+
 #### Git
 
 * [git guide](https://rogerdudler.github.io/git-guide/index.es.html) ~ Tutorial basico de git
 * [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github) ~ Introduccion a Github ~ (Ingles)
+
+<div id="canales-de-youtube-o-webst"></div>
 
 #### Canales de youtube o webs 
 
@@ -71,16 +83,20 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 ## Cursos
 
+<div id="vimc"></div>
+
+#### Vim
+
+* [Vim aumenta tu velocidad de desarrollo](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/)
+
+<div id="canales-de-youtube-o-websc"></div>
+
 #### Canales de youtube o webs
 
 * [Pildoras informaticas](https://www.youtube.com/user/pildorasinformaticas) 
 * [Programación ATS](https://www.youtube.com/channel/UC7QoKU6bj1QbXQuNIjan82Q)
 * [Código Facilito](https://codigofacilito.com/)
 * [Free Code Camp](https://www.freecodecamp.org/learn/) ~ (Ingles)
-
-#### Vim
-
-* [Vim aumenta tu velocidad de desarrollo](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/)
 
 ## Herramientas
 
