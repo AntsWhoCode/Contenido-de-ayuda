@@ -1,3 +1,8 @@
+<!-- 
+Las etiquetas <div id=""></div> que encuentra alrededor del codigo son utilizadas para que el link en la tabla de contenido valla exactamente donde le indique sin necesidad de cambiar el nombre del titulo.
+Alrededor del codigo van a ir algunos comentarios esto para separar e identificar facilmente el contenido.
+-->
+
 # Contenido de ayuda de codeAnts
 
 ---
@@ -9,6 +14,8 @@ El repositorio contiene listas de cursos, herramientas, videos, libros, tutorial
 ### ¿Como contribuir?
 
 Estaremos agradecidos de recibir cualquier contribución. Toda la información acerca de como contribuir al repositorio la puedes encontrar en el [CONTRIBUTING.md](CONTRIBUTING.md)
+
+<!-- !______________________________TABLA DE CONTENIDO______________________________ -->
 
 ## Tabla de contenido 
 
@@ -40,7 +47,7 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 * [Foros](#foros)
 
-<!-- Fin de la tabla de contenido -->
+<!-- !______________________________CATEGORIA LIBROS______________________________ -->
 
 ## Libros
 
@@ -88,6 +95,10 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Real Python](https://realpython.com/) ~ Sitio web dedicado a tutoriales de python ~ (Ingles)
 
+<!-- !______________________________FING CATEGORIA LIBROS______________________________ -->
+
+<!-- !______________________________CATEGORIA CURSOS______________________________ -->
+
 ## Cursos
 
 <div id="pythonc"></div>
@@ -132,6 +143,10 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [edutin](https://edutin.com/)
 * [Khan academy](es.khanacademy.org) 
 
+<!-- !______________________________FIN CATEGORIA CURSOS______________________________ -->
+
+<!-- !______________________________CATEGORIA HERRAMIENTAS______________________________ -->
+
 ## Herramientas
 
 * [daily.dev](https://daily.dev/) ~ Extensión para el navegador de noticias sobre programación ~ (Ingles)
@@ -175,8 +190,14 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 * [Oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh) ~ Dale estilo a tu poweshell
 
+<!-- !______________________________FIN CATEGORIA HERRAMIENTAS______________________________ -->
+
+<!-- !______________________________CATEGORIA FOROS______________________________ -->
+
 ## Foros
 
 * [elhacker.net](https://elhacker.net/)
 * [underc0de](https://underc0de.org/foro/index.php?PHPSESSID=hn6uaglapbtq3ojk78al949o21)
 * [la web del programdor](https://www.lawebdelprogramador.com/foros/)
+
+<!-- !______________________________FIN CATEGORIA FOROS______________________________ -->
