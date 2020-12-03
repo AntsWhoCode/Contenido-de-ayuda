@@ -14,13 +14,17 @@
 
 Todas las listas estarán organizadas por categorías y subcategorías. Si va a hacer un pull request verifique que su contribución este organizada.
 
-Las categorías están divididas en [cursos](cursos.md), [herramientas](herramientas.md), [libros](libros.md) y [tutoriales](tutoriales.md).
+Las categorías están divididas en curos, herramientas, libros y tutoriales.
 
 - Los nombres deben ser claros.
-- Si es posible ponga el nombre del autor 
+- (Opcional) Se debe poner una corta descripción separado de un ~.
+- Si el contenido está en otro idioma que no sea el español especificarlo dentro de paréntesis.
 
 Ejemplo:
 
 ```md
-[Nombre](wwww.libro.com/libro1.pdf) - Autor
+[Nombre](wwww.libro.com/libro1.pdf) - Descripción
+[Nombre](wwww.libro.com/libro1.pdf) 
+[Nombre](wwww.libro.com/libro1.pdf) - (Ingles)
+[Nombre](wwww.libro.com/libro1.pdf) - Descripción ~ (Ingles)
 ```
