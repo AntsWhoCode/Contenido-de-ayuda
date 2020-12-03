@@ -14,6 +14,7 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 * [Libros](#libros)
     - [Python](#python)
+    - [Rust](#rust)
     - [Otras listas](#otras-listas)
 
 * [Tutoriales](#tutoriales)
@@ -25,11 +26,13 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [Cursos](#cursos)
     - [Vim](#vim)
 
-* [Articulos](#articulos)
-
 * [Herramientas](#herramientas)
     - [Terminales](#terminales)
     - [Editores](#editores)
+    - [Playgrounds](#playgrounds)
+    - [Juegos](#juegos)
+
+* [Foros](#foros)
 
 <!-- Fin de la tabla de contenido -->
 
@@ -41,6 +44,10 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 #### Python
 
 * [Python para todos](https://www.utic.edu.py/citil/images/Manuales/Python_para_todos.pdf)
+
+#### Rust
+
+* [The rust programming language](https://doc.rust-lang.org/book/) ~ Libro oficial de Rust ~ (Ingles)
 
 ## Tutoriales
 
@@ -55,6 +62,7 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 #### Git
 
 * [git guide](https://rogerdudler.github.io/git-guide/index.es.html) ~ Tutorial basico de git
+* [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github) ~ Introduccion a Github ~ (Ingles)
 
 #### Canales o webs 
 
@@ -66,18 +74,18 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [Pildoras informaticas](https://www.youtube.com/user/pildorasinformaticas) 
 * [Programación ATS](https://www.youtube.com/channel/UC7QoKU6bj1QbXQuNIjan82Q)
 * [Código Facilito](https://codigofacilito.com/)
+* [Free Code Camp](https://www.freecodecamp.org/learn/) ~ (Ingles)
 
 #### Vim
 
 * [Vim aumenta tu velocidad de desarrollo](https://www.udemy.com/course/vim-aumenta-tu-velocidad-de-desarrollo/)
 
-## Articulos
-
 ## Herramientas
 
 * [daily.dev](https://daily.dev/) ~ Extensión para el navegador de noticias sobre programación ~ (Ingles)
-- [PyWombat](https://pywombat.com/ ) ~ Web para realizar ejercicios de python
-- [Typing Club](https://www.typingclub.com/) ~ Para mejorar tus habilidades en la mecanográfia
+* [PyWombat](https://pywombat.com/ ) ~ Web para realizar ejercicios de python
+* [Typing Club](https://www.typingclub.com/) ~ Para mejorar tus habilidades en la mecanográfia
+* [mdBook](https://github.com/rust-lang/mdBook) ~ Escribe libros con markdown
 
 #### Terminales
 
@@ -87,9 +95,26 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [Terminus](https://eugeny.github.io/terminus/)
 * [Hyper](https://hyper.is/)
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
+* [Termux](https://play.google.com/store/apps/details?id=com.termux) ~ Terminal para android
 
 #### Editores
 
 * [C# shell](https://play.google.com/store/apps/details?id=com.radinc.csharpshell) ~ Editor de C# para android
 * [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) ~ Un IDE de python en android
 * [JStudio](https://play.google.com/store/apps/details?id=com.qamar.ide.java) ~ Editor de java en android
+* [Code Editor](https://play.google.com/store/apps/details?id=com.rhmsoft.code) ~ Editor para android
+* [code-server](https://github.com/cdr/code-server) ~ Un fork de vsc ejecutable en el navegador
+
+#### Playgrounds
+
+* [play kotlin lang](https://play.kotlinlang.org/?_ga=2.66755110.963148592.1597421085-1962679736.1597421085#eyJ2ZXJzaW9uIjoiMS40LjAiLCJwbGF0Zm9ybSI6ImphdmEiLCJhcmdzIjoiIiwianNDb2RlIjoiIiwibm9uZU1hcmtlcnMiOnRydWUsInRoZW1lIjoiaWRlYSIsImNvZGUiOiIvKipcbiAqIFlvdSBjYW4gZWRpdCwgcnVuLCBhbmQgc2hhcmUgdGhpcyBjb2RlLiBcbiAqIHBsYXkua290bGlubGFuZy5vcmcgXG4gKi9cblxuZnVuIG1haW4oKSB7XG4gICAgcHJpbnRsbihcIkhlbGxvLCBGcmllbmRzIG9mIERpc2NvcmQhISFcIilcbn0ifQ==)
+
+#### Juegos
+
+* [CodeComabat](https://codecombat.com/) ~ Web para enseñar programación con juegos interactivos ~ (Ingles)
+
+## Foros
+
+* [elhacker.net](https://elhacker.net/)
+* [underc0de](https://underc0de.org/foro/index.php?PHPSESSID=hn6uaglapbtq3ojk78al949o21)
+* [la web del programdor](https://www.lawebdelprogramador.com/foros/)
