@@ -15,15 +15,15 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [Libros](#libros)
     - [Python](#python)
     - [Rust](#rust)
-    - [Otras listas](#otras-listas)
 
 * [Tutoriales](#tutoriales)
-    - [Canales o webs](#canales-o-webs)
-    - [Git](#git)
     - [Rust](#rust)
     - [Golang](#go)
+    - [Git](#git)
+    - [Canales de youtube o webs](#canales-de-youtube-o-webs)
 
 * [Cursos](#cursos)
+    - [Canales de youtube o webs](#canales-de-youtube-o-webs)
     - [Vim](#vim)
 
 * [Herramientas](#herramientas)
@@ -64,12 +64,14 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 * [git guide](https://rogerdudler.github.io/git-guide/index.es.html) ~ Tutorial basico de git
 * [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github) ~ Introduccion a Github ~ (Ingles)
 
-#### Canales o webs 
+#### Canales de youtube o webs 
 
 * [Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg)
 * [Real Python](https://realpython.com/) ~ Sitio web dedicado a tutoriales de python ~ (Ingles)
 
 ## Cursos
+
+#### Canales de youtube o webs
 
 * [Pildoras informaticas](https://www.youtube.com/user/pildorasinformaticas) 
 * [Programación ATS](https://www.youtube.com/channel/UC7QoKU6bj1QbXQuNIjan82Q)
