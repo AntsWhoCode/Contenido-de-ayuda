@@ -4,7 +4,7 @@
 
 Este contenido fue posible gracias a la participación de los miembros del servidor de discord. 
 
-El repositorio contiene listas de cursos, herramientas, videos, libros, tutoriales, etc. sobre muchas tecnologías. La mayoría de los recursos estarán en español.
+El repositorio contiene listas de cursos, herramientas, videos, libros, tutoriales, etc. sobre muchas tecnologías. La mayoría de los recursos son gratis y estarán en español.
 
 ### ¿Como contribuir?
 
