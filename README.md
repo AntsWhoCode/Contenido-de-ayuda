@@ -106,7 +106,9 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 #### Python
 
 * [Programming Essentials in Python](https://www.netacad.com/es/virtual/pcap-programming-essentials-python?utm_source=facebook&utm_medium=link_ad&utm_campaign=esp_netacad_python&fbclid=PAAaYpz9vRZ0MLusNZ9R4oKhTrM_qtiWK5hhjcB8OEyHw7RBCz-LrHT8xIorM#anchor)
-
+* [Curso de Python de pildoras informaticas](https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=1) ~ Uno de los cursos de Python mas completos que hay en Youtube, que no solo abarca python, tambien enseñan librerias como Ktinker para interfaces graficas y SQLite.
+* [Curso de Django de Pildoras Informaticas](https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB&index=1) ~ Este curso explica el framework de Python mas usado para hacer Paginas Webs, Django, recomendado si te gusta el desarrollo web.
+ 
 <div id="vimc"></div>
 
 #### Vim
@@ -123,8 +125,12 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 #### Programación web
 
-* [Curso de programación web](https://edutin.com/curso-de-programacion-web-4250)
+* [Curso de programación web de Soy Dalto](https://www.youtube.com/watch?v=kN1XP-Bef7w&list=PLE8uP447fYpgOwKgbypiCGSz7veY2MLGb) ~ Este curso que va en su tercera entrega con el curso de JavaScript es uno de los mas completos de youtube, ya que explora todas las funciones de HTML, CSS y JavaScript completmnte gratis.
+* [Curso de programación Basica de Platzi](https://platzi.com/clases/programacion-basica/) ~ Curso gratuito en donde te enseñaran sobre HTML y JavaScript con una certificación al terminar.
+* [Curso de Introduccion a la web](https://edutin.com/curso-de-introduccion-a-la-web-4222) ~ Este es un curso impartido por la Universidad De Havard en su programa CS50 y CS51, es recomendado que hayas dado el curso de introduccion a la programacion que se encuentra en edutin, que es el mismo CS50 en español.
+* [Curso de programación web](https://edutin.com/curso-de-programacion-web-4250) ~ Esta es la continuacion del curso anterior este hace parte del programa CS51, pero esta traducido al español.
 * [Web dev for beginners](https://github.com/microsoft/Web-Dev-For-Beginners) ~ Cursos de Microsoft de desarrollo web para principiantes ~ (Ingles)
+* [Python sin Fronteras](https://www.udemy.com/course/python-sin-fronteras-html-css-mysql/) ~ (De Pago, pero muy recomendado) Aunque sea principalmente de python este te enseña HTML, CSS, MySQL, Python y el framework Flask, te da todo lo que necesitas para ser desarollador Web Junior y es dictado por uno de los youtubers de programación mas grandes en español.
 
 <div id="inteligencia-artificialc"></div>
 
