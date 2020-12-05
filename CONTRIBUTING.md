@@ -28,3 +28,7 @@ Ejemplo:
 [Nombre](wwww.libro.com/libro1.pdf) - (Ingles)
 [Nombre](wwww.libro.com/libro1.pdf) - Descripción ~ (Ingles)
 ```
+
+### Añadir otra subcategoría
+
+Si considera que su contenido no pertenece a ninguna subcategoría o que esta no se encuentra, puede hacer un pull request donde la añade o preferiblemente un issue donde explique el porque se debería agregarla.
