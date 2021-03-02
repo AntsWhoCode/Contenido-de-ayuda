@@ -87,6 +87,7 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 
 * [git guide](https://rogerdudler.github.io/git-guide/index.es.html) ~ Tutorial basico de git
 * [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github) ~ Introduccion a Github ~ (Ingles)
+* [Learn Git Branching](https://learngitbranching.js.org/?locale=es_AR) ~ Guia para aprender Git, con representación visual e interactiva de lo que está ocurriendo.
 
 <div id="canales-de-youtube-o-webst"></div>
 
@@ -186,6 +187,8 @@ Estaremos agradecidos de recibir cualquier contribución. Toda la información a
 #### Juegos
 
 * [CodeComabat](https://codecombat.com/) ~ Web para enseñar programación con juegos interactivos ~ (Ingles)
+* [Flexbox Froggy](https://flexboxfroggy.com/#es) ~ Juego para aprender las distintas propiedades de CSS FlexBox.
+* [CSS Diner](https://flukeout.github.io/) ~ Juego para aprender sobre selectores de CSS ~ (Inglés)
 
 #### Mecanografia
 
